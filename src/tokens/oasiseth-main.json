@@ -30,5 +30,22 @@
     "decimals": 18,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "UST",
+    "address": "0x736647a6EFC046E5D1E06CE781bb0eA218018919",
+    "symbol": "UST",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0xc3C9b3b5117a374f8158C8e4dF5059B94f19E763",
+    "symbol": "cUSDC",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }
+
 ]
