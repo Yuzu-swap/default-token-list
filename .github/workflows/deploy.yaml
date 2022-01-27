@@ -8,15 +8,11 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: set up git 
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v1
         with:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-        run:  |
-          git config --global user.email "GitHubRobot@yuzu-swap.com" 
-          git config --global user.name "GitHubRobot"
-          npm version patch
-          git push
+
 
       - name: Setup Node
         uses: actions/setup-node@v1
@@ -28,6 +24,17 @@ jobs:
 
       - name: Tests pass
         run: npm test
+
+      - name: set up git 
+        run:  |
+          git config --global user.email "GitHubRobot@yuzu-swap.com" 
+          git config --global user.name "GitHubRobot"
+
+      - name: Version patch
+        run: npm version patch
+
+      - name:  Git push
+        run: git push
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
