@@ -1,14 +1,14 @@
 # @liuxingfeiyu/default-token-list
 
-[![Tests](https://github.com/sushiswap/token-lists/workflows/Tests/badge.svg)](https://github.com/sushiswap/default-token-list/actions?query=workflow%3ATests)
+[![Tests](https://github.com/Yuzu-swap/token-lists/workflows/Tests/badge.svg)](https://github.com/Yuzu-swap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@liuxingfeiyu/default-token-list)](https://unpkg.com/@liuxingfeiyu/default-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the SushiSwap interface.
+This NPM module and GitHub repo contains the default token list used in the Yuzu-swap interface.
 
 ## Adding a token
 
 To request that we add a token to the list,
-[file an issue](https://github.com/sushiswap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/Yuzu-swap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
 
