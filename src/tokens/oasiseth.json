@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BTC",
+    "address": "0x7f5560527b70812FecA77181156700f63Ad0a8Cc",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0xBc2F9b92e1e7Dc414eC04b9E1141370d65469814",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "ETHK",
+    "address": "0x356E462F200D6e4582E282F1A4dDdB7E417bB1eF",
+    "symbol": "ETHK",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "ZOO",
+    "address": "0x32e5c7F16172df483f3d01292434C9B44C5eb6DE",
+    "symbol": "ZOO",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://zooswap-1257201274.cos.ap-hongkong.myqcloud.com/tokens/zoo.png"
+  },
+  {
+    "name": "WOKT",
+    "address": "0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7",
+    "symbol": "WOKT",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://zooswap-1257201274.cos.ap-hongkong.myqcloud.com/tokens/okt.png"
+  },
+  {
+    "name": "OKB",
+    "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+    "symbol": "OKB",
+    "decimals": 18,
+    "chainId": 69,
+    "logoURI": "https://zooswap-1257201274.cos.ap-hongkong.myqcloud.com/tokens/okb.png"
+  }
+]

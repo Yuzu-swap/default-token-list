@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wrapped ROSE",
+    "address": "0x792296e2a15e6Ceb5f5039DecaE7A1f25b00B0B0",
+    "symbol": "WROSE",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "ETH",
+    "address": "0xB38C1c2b5b0963428642eC55a320b429f21E180C",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0xC584fFD011e16A10fd8329853B9B8DE6E0313AD9",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "BTC",
+    "address": "0x961C7a3f1909243C9af056Fd11EdDa2e18b35C7b",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "YUZU",
+    "address": "0xDc1126d7921da538ED54A954444FFc8968F362e8",
+    "symbol": "YUZU",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  }
+]

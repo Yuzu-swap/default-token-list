@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TEST A",
+    "address": "0xC77EC0196C1DE560f946BF0FcAE9d535Ff6C5f47",
+    "symbol": "OTA",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://cryptologos.cc/logos/xdai-stake-logo.png?v=010"
+  },
+  {
+    "name": "TEST B",
+    "address": "0xF84306732f4e3C6F3d672B7A05F148010b93956e",
+    "symbol": "OTB",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+  },
+  {
+    "name": "WETH",
+    "address": "0xF9d84799361AEB298b4C2f661ce0c52b01aEd98f",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+  }
+]

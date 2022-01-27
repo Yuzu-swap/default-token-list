@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "ROSE",
+    "address": "0xD647d75154cF0616Ba06Af944E7e602F8AE75086",
+    "symbol": "ROSE",
+    "decimals": 9,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0xcA8A7B55A04A9fdE7Ae7bf128384fa330F81A19c",
+    "symbol": "USDT",
+    "decimals": 12,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "BTC",
+    "address": "0xe6c87C360C24EfC6FEf4DCeFeD5607b0adaCf936",
+    "symbol": "BTC",
+    "decimals": 15,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "YUZU",
+    "address": "0x1fb9F58AFe55b0c5AEF738c60594A54B38E31Dfc",
+    "symbol": "YUZU",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  }
+]
