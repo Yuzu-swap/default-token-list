@@ -23,15 +23,14 @@ jobs:
         run: npm test
 
       - name: set up git 
+        with:
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
         run:  |
           git config --global user.email "GitHubRobot@yuzu-swap.com" 
           git config --global user.name "GitHubRobot"
+          npm version patch
+          git push
 
-      - name: Version patch
-        run: npm version patch
-
-      - name:  Git push
-        run: git push
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
