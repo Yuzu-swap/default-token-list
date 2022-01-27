@@ -22,6 +22,11 @@ jobs:
       - name: Tests pass
         run: npm test
 
+      - name: set up git 
+        run:  |
+          git config --global user.email "GitHubRobot@yuzu-swap.com" 
+          git config --global user.name "GitHubRobot"
+
       - name: Version patch
         run: npm version patch
 
