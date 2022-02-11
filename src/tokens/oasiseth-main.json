@@ -38,5 +38,31 @@
     "decimals": 18,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "UST",
+    "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+    "symbol": "UST",
+    "decimals": 6,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "LUNA",
+    "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "Celer Network",
+    "address": "0xf6a939e773fa4A63fd53f86bbbB279CaAD955035",
+    "symbol": "CELR",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }
+  
+
 ]
