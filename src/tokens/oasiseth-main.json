@@ -62,6 +62,14 @@
     "decimals": 18,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "FTP",
+    "address": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
+    "symbol": "FTP",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }
   
 
