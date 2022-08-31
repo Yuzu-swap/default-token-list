@@ -70,7 +70,13 @@
     "decimals": 18,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "BTC",
+    "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+    "symbol": "meBTC",
+    "decimals": 8,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }
-  
-
 ]
