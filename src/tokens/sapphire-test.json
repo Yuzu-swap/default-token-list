@@ -1,0 +1,18 @@
+[
+    {
+        "name": "USDT",
+        "address": "0xefbCC63d64481c8184B58C73b89Fa81882Fc0729",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "BTC",
+        "address": "0xfd6E9A9605e610Eb893f7Dfceb6aD83993da63C5",
+        "symbol": "BTC",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    }
+]
