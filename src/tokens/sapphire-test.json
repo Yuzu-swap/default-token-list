@@ -1,7 +1,7 @@
 [
     {
         "name": "USDT",
-        "address": "0xefbCC63d64481c8184B58C73b89Fa81882Fc0729",
+        "address": "0x6B3e9eB07a49FBac1354Ebda584D199C73E9E831",
         "symbol": "USDT",
         "decimals": 18,
         "chainId": 23295,
@@ -9,7 +9,7 @@
     },
     {
         "name": "BTC",
-        "address": "0xfd6E9A9605e610Eb893f7Dfceb6aD83993da63C5",
+        "address": "0x6b4DDbCF76FA65B6D2BB882095476b3D8Df3eC7D",
         "symbol": "BTC",
         "decimals": 18,
         "chainId": 23295,
@@ -17,7 +17,7 @@
     },
     {
         "name": "BYOBU",
-        "address": "0xeB9a67f9f35c1898B662d7FE1Eb68986eD5a6513",
+        "address": "0xB90A486a0090e0bdFF97d45Aabd348bBf3f29EBA",
         "symbol": "BYOBU",
         "decimals": 18,
         "chainId": 23295,
@@ -25,10 +25,27 @@
     },
     {
         "name": "Wrapped ROSE",
-        "address": "0x496045265a85495145b5BaCD1e3e85a847C28456",
+        "address": "0xAC09bBeCE3b428cd4a33D0518718b6735E9d95AF",
         "symbol": "wROSE",
         "decimals": 18,
         "chainId": 23295,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "ETH",
+        "address": "0xEeCec46E36c4016eAf6D8660Df4e0e3221Aa50B1",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "YUZU",
+        "address": "0xEeCec46E36c4016eAf6D8660Df4e0e3221Aa50B1",
+        "symbol": "YUZU",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     }
+    
 ]
