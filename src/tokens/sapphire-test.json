@@ -41,7 +41,7 @@
     },
     {
         "name": "YUZU",
-        "address": "0xEeCec46E36c4016eAf6D8660Df4e0e3221Aa50B1",
+        "address": "0x99e9f9FA62ce04DbB30DF685957F974bdd06E149",
         "symbol": "YUZU",
         "decimals": 18,
         "chainId": 23295,
