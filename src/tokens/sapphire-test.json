@@ -14,5 +14,21 @@
         "decimals": 18,
         "chainId": 23295,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "BYOBU",
+        "address": "0xeB9a67f9f35c1898B662d7FE1Eb68986eD5a6513",
+        "symbol": "BYOBU",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "Wrapped ROSE",
+        "address": "0x496045265a85495145b5BaCD1e3e85a847C28456",
+        "symbol": "wROSE",
+        "decimals": 18,
+        "chainId": 23295,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     }
 ]
