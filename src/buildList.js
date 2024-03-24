@@ -22,6 +22,7 @@ const okchain = require("./tokens/okchain.json");
 const oasistest = require("./tokens/oasiseth-test.json");
 const oasismain = require("./tokens/oasiseth-main.json");
 const sapptest = require("./tokens/sapphire-test.json")
+const merlintest = require("./tokens/merlin-test.json")
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -59,6 +60,7 @@ module.exports = function buildList() {
       ...oasistest,
       ...oasismain,
       ...sapptest,
+      ...merlintest
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "PIZZA",
+        "address": "0xbC18233857d906BCA391F3f642783745Da4dCF40",
+        "symbol": "PIZZA",
+        "decimals": 18,
+        "chainId": 686868,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "wBTC",
+        "address": "0x81B6304102c2d6baBd599c2557d1A8b4Bdc9521B",
+        "symbol": "wBTC",
+        "decimals": 18,
+        "chainId": 686868,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "mBTC",
+        "address": "0xBCa85Ef2835A8d687DBF7B815DA205886C318893",
+        "symbol": "mBTC",
+        "decimals": 18,
+        "chainId": 686868,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    }
+]
