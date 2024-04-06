@@ -22,5 +22,13 @@
         "decimals": 18,
         "chainId": 686868,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "CHEEZ",
+        "address": "0xDA562B590C6F3a94ae40644Fe1c3C2F6772F2017",
+        "symbol": "CHEEZ",
+        "decimals": 18,
+        "chainId": 686868,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     }
 ]
