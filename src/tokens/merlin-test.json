@@ -1,7 +1,7 @@
 [
     {
         "name": "PIZZA",
-        "address": "0xbC18233857d906BCA391F3f642783745Da4dCF40",
+        "address": "0x925b68f011BED013Bb6e882b4909423D997393c2",
         "symbol": "PIZZA",
         "decimals": 18,
         "chainId": 686868,
@@ -25,7 +25,7 @@
     },
     {
         "name": "CHEEZ",
-        "address": "0xDA562B590C6F3a94ae40644Fe1c3C2F6772F2017",
+        "address": "0x5dc8c2ced1e40d73a688209b50fb0e3642ef0164",
         "symbol": "CHEEZ",
         "decimals": 18,
         "chainId": 686868,
