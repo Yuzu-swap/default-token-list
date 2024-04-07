@@ -25,7 +25,7 @@
     },
     {
         "name": "CHEEZ",
-        "address": "0x5dc8c2ced1e40d73a688209b50fb0e3642ef0164",
+        "address": "0x5DC8C2Ced1E40D73a688209b50fB0e3642Ef0164",
         "symbol": "CHEEZ",
         "decimals": 18,
         "chainId": 686868,
